@@ -19,7 +19,7 @@ cd /c/Users/israe/Desktop/a1-israelma/images/photos/people/mary
 # Add all of your changes that you've made to git [2 points]
 git add .
 # Make a commit of your changes, including a descriptive message [2 points: -1 if the commit doesn't describe the work completed]
-
+git commit -m "fourth version"
 # Push your change up to GitHub [2 points - ``push`` is just fine]
-
+git push
 ```
