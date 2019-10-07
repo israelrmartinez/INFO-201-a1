@@ -1,6 +1,6 @@
 # **Karen Sparck Jones**
 
-![CreditCreditComputer Laboratory/University of Cambridge](/images/photos/people/karen.jpg)
+![Computer Laboratory/University of Cambridge](/images/photos/people/Karen/karen.jpg)
 
 ## Born
 August 26, 1935
@@ -31,7 +31,7 @@ particular document should be used to determine the term’s importance.
 ## My question
 If I could ask Karen Sparck Jones anything, I would ask what was it that kept
 her pushing forward in her work despite being ignored in many ways by her
-colleagues for a long time.
+colleagues for a long time :angry:
 
 [Karen's Obituary](https://www.nytimes.com/2019/01/02/obituaries/karen-sparck-jones-overlooked.html)
 

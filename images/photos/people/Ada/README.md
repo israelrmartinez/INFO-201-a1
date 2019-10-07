@@ -1,7 +1,7 @@
 # **Ada Lovelace**
 
 ![Ada Lovelace’s work was rediscovered in the mid-20th century, inspiring the
-Defense Department to name a programming language after her.](/images/photos/people/ada.jpg)
+Defense Department to name a programming language after her.](/images/photos/people/Ada/ada.jpg)
 
 ## Born
 December 10, 1815
